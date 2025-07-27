@@ -1,5 +1,5 @@
 # FIL_P4_Report
-This is a repository for weekly P4 reports in FutureInternetLab.
+This is a repository for weekly P4 reports based on the CS 856 course.
 
 References:
 1. Computer Networking A Top-Down Approach by James F. Kurose and Keith W. Ross
