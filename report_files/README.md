@@ -8,3 +8,6 @@ The week 2 report (updated 3/8) is at [topic_2_3_4_P4.pdf](https://github.com/Co
 
 3. (Week 3: Programming Software Network Stacks)
 The week 3 report (updated 10/8) is at [topic_5_sft_nw_stck_prgrm](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_5_sft_nw_stck_prgrm.pdf)
+
+4. (Week 4: Applications to Traditional Networks)
+The week 4 report (updated 17/8) is at [topic_6_app_trad_net](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_6_app_trad_net.pdf)
