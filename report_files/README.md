@@ -11,3 +11,6 @@ The week 3 report (updated 10/8) is at [topic_5_sft_nw_stck_prgrm](https://githu
 
 4. (Week 4: Applications to Traditional Networks)
 The week 4 report (updated 17/8) is at [topic_6_app_trad_net](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_6_app_trad_net.pdf)
+
+5. (Week 5: Network Verification and Monitoring)
+The week 5 report (updated 24/8) is at [topic_7_8_nw_vrf_mnt.pdf](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_7_8_nw_vrf_mnt.pdf)
