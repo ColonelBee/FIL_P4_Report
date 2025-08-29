@@ -16,4 +16,4 @@ The week 4 report (updated 17/8) is at [topic_6_app_trad_net](https://github.com
 The week 5 report (updated 24/8) is at [topic_7_8_nw_vrf_mnt.pdf](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_7_8_nw_vrf_mnt.pdf)
 
 6. (Week 6: Applications to Transport, Network QoS, and In-Network Computing
-The week 6 report (updated 29/8) is at [topic_9_app_in_nw_computing] ()
+The week 6 report (updated 29/8) is at [topic_9_app_in_nw_computing](https://github.com/ColonelBee/FIL_P4_Report/blob/main/report_files/topic_9_app_in_nw_computing.pdf)
